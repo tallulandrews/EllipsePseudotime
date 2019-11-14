@@ -1,4 +1,4 @@
-*Ellipse Pseudotime*
+**Ellipse Pseudotime
 
 This is an R package providing functions for fitting an ellispe to low-dimensional projections of single-cell RNAseq data to calculate pseudotime around a cyclical lifecycle, or other cyclical process.
 
