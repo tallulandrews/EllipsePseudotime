@@ -33,7 +33,7 @@
 	# Simulated data:
 	set.seed(42)
 	params <- matrix(c(2.7, -1.2, 7.16, 4.6, 0.06), ncol=1);
-	dat <- calculateEllipse(params, 1000)
+	dat <- conicfit::calculateEllipse(params[1,1], params[2,1], params[3,1], params[4,1], params[5,1], 1000)
 	dat[,1] <- dat[,1]+rnorm(1000, sd=0.5)
 	dat[,2] <- dat[,2]+rnorm(1000, sd=0.5)
 	out <- fit_Ring(dat, suppress.plot=TRUE)
