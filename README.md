@@ -6,6 +6,7 @@ It was uses to describe the IDC in the Malaria cell atlas project: https://www.s
 
 *Citation:*
 Howick VM, et al. (2019). The Malaria Cell Atlas: Single parasite transcriptomes across the complete Plasmodium life cycle. Science. 365(6455) pii:eaaw2619. doi: 10.1126/science.aaw2619 
+
 PMID: 31439762
 http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=31439762
 
