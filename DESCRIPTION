@@ -1,0 +1,16 @@
+Package: EllipsePseudotime
+Version: 0.99.1
+Date: 2019-11-14
+Title: Fit Ellipse Pseudotime
+Author: Tallulah Andrews <tallulandrews@gmail.com>
+Maintainer: Tallulah Andrews <tallulandrews@gmail.com>
+Depends: R (>= 3.4)
+Imports: RColorBrewer, conicfit
+Suggests: knitr
+VignetteBuilder: knitr
+biocViews: RNASeq, Sequencing, Transcriptomics, GeneExpression, Software
+Collate: FitRingPseudotime.R 
+Description: This package fits an ellipse to a 2D projection of data and calculates a pseudotime around this ellipse from a given start location. 
+URL: https://github.com/tallulandrews/EllipsePseudotime
+BugReports: https://github.com/tallulandrews/EllipsePseudotime/issues
+License: GPL (>=2)
