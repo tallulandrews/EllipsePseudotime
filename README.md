@@ -12,5 +12,6 @@ http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=31439762
 **Installation:**
 
 >require("devtools")
+
 >install_github('tallulandrews/EllipsePseudotime')
 
